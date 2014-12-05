@@ -7,6 +7,8 @@ Because software servo library allows us to add more than 3 servos.
 
 For now i have only written the movement for front and back but we can easily add left and right movement also.
 
+Here is a link to the video demo of my prototype http://youtu.be/eEiKT8PZ-l8
+
 if you want to make changes you are welcome to make changes.
 
 This code is licensed under CC-BY-SA 4.0
